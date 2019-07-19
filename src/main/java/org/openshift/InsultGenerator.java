@@ -57,9 +57,8 @@ public class InsultGenerator {
 		} catch (Exception e) {
 			return "Database connection problem!";
 		}
+		return theInsult;
 	}
-	
+}	
 					
-							
-							
 							
